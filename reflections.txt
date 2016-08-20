@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Y* What new skills have you learned?
+	- Learned new tags such as <em>, <strong>, <hr>, and <sup>
+  * What has been easy?
+	- Nothing really but have a ready resource in the MDN element reference is helpful
+  * What has been difficult?
+	- Nothing unreasonably difficult yet. Just takes some time to research
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+	- I know where to find things and I learned <em> and <strong> from the first project.
